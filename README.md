@@ -31,9 +31,7 @@ The first step we will need to take is creating an account with Microsoft Azure.
 <p>
 <img width="2555" height="1387" alt="VM" src="https://github.com/user-attachments/assets/c9614584-eca9-47c4-b6e7-0ecf5ce4fe8e" />
 </p>
-
 After logging into Microsoft Azure, you will scroll down and click the Virtual Machine icon
-
 </p>
 <br />
 
@@ -139,6 +137,17 @@ Click Next: Networking
 <p>
 Network Interface: Azure should auto-fill this section for you. Don't change anything and click Review + create.
 <p>
-<img width="1911" height="736" alt="VM-13" src="https://github.com/user-attachments/assets/39c6902c-607f-4943-a71a-c2f7a9aa1cd2" />
+<br />
+  
+<p>
+<img width="1911" height="736" alt="VM-13" src="https://github.com/user-attachments/assets/fa9bcdf3-f301-4b27-9710-545bb8917752" />
 </p>
 <p>
+Congratulations, you have created a Virtual Machine with Microsoft Azure
+<p>
+<br />
+
+<p>
+<img width="1906" height="763" alt="vm-14" src="https://github.com/user-attachments/assets/c6b44ac4-67e0-4ecb-b0d9-39783fd6565d" />
+  
+</p>
