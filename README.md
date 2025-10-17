@@ -69,7 +69,7 @@ You will now want to create a resource group; we named ours "osTicket".
 <img width="1911" height="767" alt="VM-3" src="https://github.com/user-attachments/assets/60bc6e85-065f-4e9b-a3da-6fc778c6aab6" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Name your Virtual Machine; we named ours osTicket-vm.
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1907" height="767" alt="VM-4" src="https://github.com/user-attachments/assets/a871b943-04b3-4ac4-b925-1fb13f33276a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, you will want to pick a region that best fits your geo location.
 </p>
 <br />
 
@@ -85,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1908" height="764" alt="VM-5" src="https://github.com/user-attachments/assets/56665cf9-4f60-452b-8850-92787cc8854c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Under Zone options, click *Azure-selected zone(Preview). Let Azure assign the best zone for your needs
 </p>
 <br />
 
