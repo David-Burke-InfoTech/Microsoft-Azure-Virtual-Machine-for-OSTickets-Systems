@@ -93,7 +93,7 @@ Under Zone options, click *Azure-selected zone(Preview). Let Azure assign the be
 <img width="1911" height="822" alt="VM-6" src="https://github.com/user-attachments/assets/7b675555-df3c-43d7-ade6-91dac4fc5f94" />
 </p>
 <p>
-For Image you will want to select 
+For Image, you will want to select Windows 10 Pro, version 22H2 - x64 Gen2 (free services eligible)
 </p>
 <br />
 
@@ -101,7 +101,7 @@ For Image you will want to select
 <img width="1918" height="761" alt="VM-7" src="https://github.com/user-attachments/assets/a142261a-d50a-4910-8b06-50a27ba33942" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Size you will select Standard_D2s_v3 - 2 vcpus, 8 GiB memory ($70.08/month)
 </p>
 <br />
 
@@ -109,7 +109,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1904" height="759" alt="VM-8" src="https://github.com/user-attachments/assets/0611fc73-1fed-4e05-89d4-078a366a0ec3" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Under Administrator Account, create a username and password.
 </p>
 <br />
 
@@ -117,7 +117,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1910" height="765" alt="VM-9" src="https://github.com/user-attachments/assets/dbdf8cd7-90d6-4fbc-bfe8-b86ce9408a53" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Licensing: You will select *I confirm I have an eligible Windows 10/11 license with multi-tenant hosting rights.
 </p>
 <br />
 
@@ -125,7 +125,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1910" height="696" alt="VM-10" src="https://github.com/user-attachments/assets/1886e0c9-166a-4832-92fe-646165e9f9c5" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then click Next: Disks
 </p>
 <br />
 
@@ -133,7 +133,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1903" height="729" alt="VM-11" src="https://github.com/user-attachments/assets/2db3eb7b-40bc-47be-9159-7fcdae192e6c" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click Next: Networking
 </p>
 <br />
 
@@ -141,9 +141,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1910" height="737" alt="VM-12" src="https://github.com/user-attachments/assets/15f7cb47-7760-4a42-b0eb-0956aa7a7672" />
 </p>
 <p>
-
-type something
-
+Network Interface: Azure should auto-fill this section for you. Don't change anything and click Review + create.
 <p>
 <img width="1911" height="736" alt="VM-13" src="https://github.com/user-attachments/assets/39c6902c-607f-4943-a71a-c2f7a9aa1cd2" />
 </p>
