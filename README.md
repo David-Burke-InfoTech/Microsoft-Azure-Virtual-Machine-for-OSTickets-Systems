@@ -53,7 +53,7 @@ Click on the Create tab
 <img width="1911" height="757" alt="VM-1" src="https://github.com/user-attachments/assets/9f54a3b2-3fd3-49fa-96ea-921cd5f658c5" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click Virtual Machine.
 </p>
 <br />
 
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1910" height="766" alt="VM-2" src="https://github.com/user-attachments/assets/43cfe020-8595-45d1-8836-ceb5ac425850" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will now want to create a resource group; we named ours "osTicket".
 </p>
 <br />
 
