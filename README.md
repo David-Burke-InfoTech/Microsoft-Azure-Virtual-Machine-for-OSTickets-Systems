@@ -61,7 +61,7 @@ Click Virtual Machine.
 <img width="1910" height="766" alt="VM-2" src="https://github.com/user-attachments/assets/43cfe020-8595-45d1-8836-ceb5ac425850" />
 </p>
 <p>
-You will now want to create a resource group; we named ours "osTicket".
+You will now want to create a Resource group; we named ours "osTicket".
 </p>
 <br />
 
@@ -77,7 +77,7 @@ Name your Virtual Machine; we named ours osTicket-vm.
 <img width="1907" height="767" alt="VM-4" src="https://github.com/user-attachments/assets/a871b943-04b3-4ac4-b925-1fb13f33276a" />
 </p>
 <p>
-Next, you will want to pick a region that best fits your geo location.
+Next, you will want to pick a Region that best fits your geo location.
 </p>
 <br />
 
@@ -93,7 +93,7 @@ Under Zone options, click *Azure-selected zone(Preview). Let Azure assign the be
 <img width="1911" height="822" alt="VM-6" src="https://github.com/user-attachments/assets/7b675555-df3c-43d7-ade6-91dac4fc5f94" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For Image you will want to select 
 </p>
 <br />
 
